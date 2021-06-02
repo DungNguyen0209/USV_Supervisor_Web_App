@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@aspnet/signalr@1.1.4",
+      "destination": "wwwroot/lib/aspnet/signalr/",
+      "files": [
+        "dist/browser/signalr.js",
+        "dist/browser/signalr.min.js"
+      ]
+    },
+    {
+      "library": "@microsoft/signalr@5.0.5",
+      "destination": "wwwroot/js/signalr/",
+      "files": [
+        "dist/browser/signalr.js",
+        "dist/browser/signalr.min.js"
+      ]
+    }
+  ,
+    {
+      "library": "@microsoft/signalr@5.0.5",
+      "destination": "wwwroot/js/signalr/"
+    },
+
+
+    {
+      "provider": "cdnjs",
+      "library": "Chart.js@2.9.3",
+      "destination": "wwwroot/lib/chartjs"
+    }
+    
+]
+}
