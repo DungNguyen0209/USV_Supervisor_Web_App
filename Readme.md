@@ -1,5 +1,5 @@
 ### <div align="center">SỬ DỤNG BẢN ĐỒ ĐỂ THỂ HIỆN TỌA ĐỘ CỦA TÀU MẶT NƯỚC KHÔNG NGƯỜI LÁI (USV) TRÊN BẢN ĐỒ BẰNG GIAO THỨC MQTT</div>
-**Công nghệ:** C#, javascript, html, MQTT, signalR.
+**Công nghệ :** C#, javascript, html, MQTT, signalR.
 
 ## Mô tả:
    - Sử dụng html và javascript với Googlemap API để thể hiện tọa độ của tàu theo con trỏ màu đỏ được hiện ở trên phần mềm.
