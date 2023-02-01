@@ -2,9 +2,9 @@
 Công nghệ: C#, javascript, html, MQTT, signalR.
 
 ## Mô tả:
-   Sử dụng html và javascript với Googlemap API để thể hiện tọa độ của tàu theo con trỏ màu đỏ được hiện ở trên phần mềm.
-   Giao thức truyền nhận dữ liệu: MQTT. Ta sử dụng Service MQTT bằng C# để nhận dữ liệu và truyền dữ liệu giữa phần mềm và tàu. Giữa class MQTT và javascript ta sử dụng SignalR như một broker để update dữ liệu qua lại.
-   Dữ liệu của tàu được thể hiện một cách Realtime.
+   - Sử dụng html và javascript với Googlemap API để thể hiện tọa độ của tàu theo con trỏ màu đỏ được hiện ở trên phần mềm.
+   - Giao thức truyền nhận dữ liệu: MQTT. Ta sử dụng Service MQTT bằng C# để nhận dữ liệu và truyền dữ liệu giữa phần mềm và tàu. Giữa class MQTT và javascript ta sử dụng SignalR như một broker để update dữ liệu qua lại.
+   - Dữ liệu của tàu được thể hiện một cách Realtime.
 
  ```
 Cách sử dụng:
